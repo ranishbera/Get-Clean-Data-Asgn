@@ -14,7 +14,7 @@ This R script performs the following steps, as per the project assignment instru
 This script assumes that you have already downloaded and unzipped the original Samsung data in a folder called _Data_. If this is not the case, you must first run the script called `download_data.R`. In your R enviroment, load it:
 
 ```
-source('download_corpus.R')
+source('download_data.R')
 ```
 This will download the corpus and unzip it.
 ## How to run the analysis

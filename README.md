@@ -37,6 +37,6 @@ $ ls output/
 `final_tidy_dataset.csv` mirrors the .txt file in .csv format for your convenience.
 `whole_dataset_with_descriptive_activity_names.csv` is an intermediate file used during the analysis.
 
-## final tidy dataset
+## Final tidy dataset
 
 Each row in the final, clean dataset contains _subject_, _activity_, and _measures_ for all required features (i.e., mean or standard deviation).
